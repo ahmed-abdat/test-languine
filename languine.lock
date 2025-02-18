@@ -1,0 +1,44 @@
+version: 1
+files:
+  messages\en.json:
+    PhotoViewer.title: 161176df715952388fb424d6796e728e
+    PhotoViewer.description: 65010f957166cac46fbcf95af0cf5332
+    PhotoViewer.orderBy: 62071be856b21355aa1ca4c08453040b
+    Pagination.prev: 292d37187f30bfe76e7fa34f249fd39d
+    Pagination.next: 257a7b4c17035553819990bc73114989
+    Pagination.info: 4ed970ec2356dcaa7e1129014ea10d92
+    Footer.credits: 462c4348edac2664343d60d25b67f200
+    Home.title: 71b10daf0fa9ccea402af6fb739e869e
+    Home.description: a6112a6cd7cde7e544864a6cee44fafe
+    Hero.title: f37b0c61a32480807f78de94486321f4
+    Hero.subtitle: 54633bc5a24f99f46e04c678c2531090
+    Hero.description: 207ee24dc0042f4422329c14fb5275ae
+    Hero.cta.explore: 64c7220757f39ab6f53fe692fb76d527
+    Hero.cta.learnMore: cec0cd69bc234d8d16f4187e2144cbd7
+    Hero.features.community.title: 489ffcb0745330191a5e955579558ad7
+    Hero.features.community.description: 3ea3b9d324bcc95e2d1f7c4e506d5599
+    Hero.features.discover.title: ae4a883942b685dcf427a952f69c8a5e
+    Hero.features.discover.description: 1572a2c563108c0f69e1dde385e6b6cf
+    Hero.features.curated.title: 6d68840cb7afd0e5a3a68c271d46d423
+    Hero.features.curated.description: d34a05da609f410f17955c51fc146934
+    Features.title: 440c8e210dd353075f67f38bca2dbe2c
+    Features.subtitle: e0877d90496ec873ae4d71038923f867
+    Features.feature1.title: 489ffcb0745330191a5e955579558ad7
+    Features.feature1.description: 58e12aa2fcc88b47f2d2db1d91701c5a
+    Features.feature2.title: 72776e05f59ab1e0b4b23f832c4f1476
+    Features.feature2.description: 40f4d404e47f25ac6ecdb94f7a108971
+    Features.feature3.title: 30fb67134d5857fb9a363a28790ab0b5
+    Features.feature3.description: 841634d855da874b487d540965115d3a
+    Stats.title: dd44abc654f1d221eeeddedd74100ce5
+    Stats.subtitle: f938639571d2e4df48a46010f9dda790
+    Stats.visitors.title: 5e9d281c97b027032cee742cba59bf67
+    Stats.visitors.description: dba69bb11f92ff0f51d4bc39eeda1df5
+    Stats.countries.title: 6c51308c891322544007578076e6c4b6
+    Stats.countries.description: a4b5fe011ed14e1c249c3001077500f6
+    Stats.languages.title: 1ea21417b4fc870a18d6a244983be72b
+    Stats.languages.description: f1ad3654308f67d2cacc9201f9035eb2
+    Gallery.title: b59e11de051bb0736fdb3e37d5080ced
+    Gallery.subtitle: 3fbc1ce411826d3027e78205d885a068
+    Gallery.searchPlaceholder: 6e3b03386945732b31f88d6c1af75a1d
+    Gallery.noMorePhotos: 32b14432824f6ff2892b4ca0d7aec62d
+    Gallery.noResults: 94d150e67374455ce2e0bcd83c912fea
