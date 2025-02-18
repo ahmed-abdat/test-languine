@@ -1,0 +1,81 @@
+{
+    "PhotoViewer": {
+        "title": "",
+        "description": "",
+        "orderBy": "{value, select, popular {} latest {} other {}}"
+    },
+    "Pagination": {
+        "prev": "",
+        "next": "",
+        "info": "Page {page, number} sur {totalPages, number} ({totalElements, plural, =1 {résultat} other {# résultats}} au total)"
+    },
+    "Footer": {
+        "credits": "Photos fournies par <unsplash>Unsplash</unsplash>"
+    },
+    "Home": {
+        "title": "",
+        "description": ""
+    },
+    "Hero": {
+        "title": "",
+        "subtitle": "",
+        "description": "",
+        "cta": {
+            "explore": "",
+            "learnMore": ""
+        },
+        "features": {
+            "community": {
+                "title": "",
+                "description": ""
+            },
+            "discover": {
+                "title": "",
+                "description": ""
+            },
+            "curated": {
+                "title": "",
+                "description": ""
+            }
+        }
+    },
+    "Features": {
+        "title": "",
+        "subtitle": "",
+        "feature1": {
+            "title": "",
+            "description": ""
+        },
+        "feature2": {
+            "title": "",
+            "description": ""
+        },
+        "feature3": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "Stats": {
+        "title": "",
+        "subtitle": "",
+        "visitors": {
+            "title": "",
+            "description": ""
+        },
+        "countries": {
+            "title": "",
+            "description": ""
+        },
+        "languages": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "Gallery": {
+        "title": "",
+        "subtitle": "",
+        "searchPlaceholder": "",
+        "noMorePhotos": "",
+        "noResults": ""
+    }
+}
